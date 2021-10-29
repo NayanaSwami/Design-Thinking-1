@@ -25,4 +25,5 @@ _You **can** combine them_
   ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
   
-  ![Sample](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mygreatlearning.com%2Fblog%2Fadopting-design-thinking-to-embrace-changing-business-landscape%2F&psig=AOvVaw3YlOm8fHWp32WCQrKm8AMm&ust=1635620973702000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDRvOao8PMCFQAAAAAdAAAAABAD)
+  ![Sample](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.supermarketperimeter.com%2Farticles%2F5586-how-design-thinking-translates-food-marketing&psig=AOvVaw3YlOm8fHWp32WCQrKm8AMm&ust=1635620973702000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDRvOao8PMCFQAAAAAdAAAAABAS)
+  
